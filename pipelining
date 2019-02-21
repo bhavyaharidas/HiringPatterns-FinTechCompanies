@@ -1,0 +1,15 @@
+Luigi - python package
+requires classes
+each task is a class
+
+
+Dask
+Dask graph - a dictionary with fucntion name as key and parameters as values
+Executing tasks - from dask.threaded import get
+					from operator import add
+
+parallel invoke - get(dsk,['x','y',z])
+dask.org
+
+
+
