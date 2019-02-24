@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "hiringpatters-fintechcompanies",
+  "private_key_id": "cc87726d799a20b375a08a381b420d76925f5e67",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC4iPFfll50720I\nONRc1E61YjItYoxRq8tzmkIsEYRTDSAtcBabnVmk+6qTdo6fHddEKzKSV9sL0mYI\nc7oyBxhYg61n+pDOmrbUCzB/ueGRzGXNmeIs8ftzKn/YCsGncZ/DHkqh4PydiKq3\nbeILUvKc0Bywilj2X03yss9R0B41qVRZy4IyaYGuIyMUgymidMoI0G78ViDxeQMo\nS71A04TsDEoE4uDar0RZtEL4dZ0f3SvygtPhX7h5wRPX//2U7tY22nUu8IH2AC3F\nD9dUEnWsYFRR69ABuMy558somTIgk45s2qgtoReWuRL/mawk+cl3z/PMCdyaWocF\nVRzSFC7HAgMBAAECggEABF9yYNJ+YIT/727xUVXSm6e9CqhILPNGOfIQ2Vx85z7r\nYUhDsOJUqn0wOJhZntmlLT9czmz4itosgszDP8Y9RHOyW0FrxwmRhYrSVmSAPOU8\nEFgyLOB7FeqO5v6yQhaGM6h3Gkjrk4wWh4w6DAymJSMlWuWcYBI4FaU5FnY5EQps\n0dVavEbzqEl6+L3TdhalNPKonRiYFQIuRUq/G/buhqzQ1saL5p05ppN31ODDphVI\nKyTYBxhuv2f8kl1RNA38QejtF7XvSWBGThYlPZQ/sq71m5ZgMu+Rsk3+In7qMxy0\nHm5llP/pu23wdNoEeKpGI//VZkVNKzkoIkMXPzRvsQKBgQDyIN7/4etetkbDkX/0\nHBS0VMF48UtlVYQ9JLvYA1Uf9nArGm3KP9zoW6tXb5jDzvXn4TMgnl7s7lJC3Qf+\nfD10Pj7hPrOr2c1Qcy/UvV09gKN1gK4wjTY3WFnjh2FQV0pm7MO4Y+dFf0uEyJbi\n9g4E6eSElb7hkbrj6peuScr5aQKBgQDDG2NubeLdsfHsvrgB8YFVkHmFfw5+rt6j\ne+TjT0o5LRr27TI3N5DfkbbC7SdFUBcxiPwY0IbWc2jiubWi42rxkORF3PJT/5al\niyp3A0IdJdwkdJoidA3FXvfTcECBBPl/VstFmv5wcs4BzcNu5u1IjEaGxG+q/6se\nAfoCgxAwrwKBgFeFDDY/6j0U8+UzDaYmFFHOpRRbW95oF+GmCoQdSELCaG8cIX1O\nskIHCJsVSonUoExNuZZbyIIp7vAeRwp0zB3ddgsjB/zhQHaI/EwQmshlXDBX8B66\nnFNLC0rUH5fTxaAIiwJ2kh0r0xdPDkNBn3WlOaW3HwUYEQ7bODKWl9ipAoGBAIPY\nOz4BleBYgnKIgxIVIGAw7F3Q+XuUMjFp5MfS6gZvO5yHt3pm20ipUEazOel18OZx\nemJOb//1J3inJF45rigl0IyBfWRUAHpH699W3VOTJQuhnBMSN8gbn/9LCNvm/68U\nePLFhZF5k0rWwG1uMgTnfjVOA2Qbt4fksA0IgmVTAoGBAMSG9MhtJWyIldwT8qC8\nyz19DE9YRmkdxhfC3lhZlI41o75NhUsnb83d66E0athVdw9Tlf8OU9UgOBz8YKl8\nHB3NdBnGU7rmK8CIfnwahQvp8BWfRxbCxl+t1+U8c6noCza8BSUBT59kmwQqouvo\nULIno8u8dIbWsmE0pjNmeUfY\n-----END PRIVATE KEY-----\n",
+  "client_email": "admin-926@hiringpatters-fintechcompanies.iam.gserviceaccount.com",
+  "client_id": "110365294535629606232",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/admin-926%40hiringpatters-fintechcompanies.iam.gserviceaccount.com"
+}
